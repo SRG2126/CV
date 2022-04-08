@@ -1,0 +1,63 @@
+html{
+    font-family: 'League Spartan', sans-serif;
+}
+body{
+    margin: 0;
+    background-color: #efefef;
+}
+.izq{
+    position: absolute;
+    left: 300px;
+    width: 300px;
+    margin: 0 auto;
+}
+.der{
+    position: absolute;
+    right: 300px;
+    width: 300px;
+    margin: 0 auto;
+}
+.info{
+    text-align: center;
+    background-color: rgb(26, 0, 121);
+    height: 650px;
+    color: #efefef;
+}
+.imgRedonda{
+    width: 250px;
+    height:300px;
+    border-radius:160px;
+    border:10px solid #666;
+}
+.exp{
+    position: absolute;
+    bottom: -200px;
+    text-align: center;
+}
+.explab{
+    background-color:rgb(26, 0, 121);
+    color: #efefef;
+    padding: 2px;
+}
+.final{
+    position: absolute;
+    bottom: -300px;
+}
+.info2{
+    text-align: center;
+}
+.perftit{
+    background-color: rgb(26, 0, 121);
+    color: #efefef;
+    padding: 2px;
+}
+.fortit{
+    background-color: rgb(26, 0, 121);
+    color: #efefef;
+    padding: 2px;
+}
+.reftit{
+    background-color: rgb(26, 0, 121);
+    color: #efefef;
+    padding: 2px;
+}
